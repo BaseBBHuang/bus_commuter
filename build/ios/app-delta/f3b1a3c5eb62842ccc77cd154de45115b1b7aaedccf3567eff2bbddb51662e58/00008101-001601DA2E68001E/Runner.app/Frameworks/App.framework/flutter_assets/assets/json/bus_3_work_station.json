@@ -1,0 +1,26 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 3,
+		"timeLabel": "7:15",
+		"station": "琼苑宾馆"
+	},{
+		"number": 3,
+		"timeLabel": "7:20",
+		"station": "彩票中心"
+	},{
+		"number": 3,
+		"timeLabel": "7:25",
+		"station": "五公祠"
+	},{
+		"number": 3,
+		"timeLabel": "7:30",
+		"station": "琼山邮局站"
+	},{
+		"number": 3,
+		"timeLabel": "8:05",
+		"station": "软件园"
+	}],
+	"ok": true
+}

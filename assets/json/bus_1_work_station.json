@@ -1,0 +1,54 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 1,
+		"timeLabel": "7:00",
+		"station": "海大北门"
+	},{
+		"number": 1,
+		"timeLabel": "7:10",
+		"station": "京海花园"
+	},{
+		"number": 1,
+		"timeLabel": "7:13",
+		"station": "钟楼"
+	},{
+		"number": 1,
+		"timeLabel": "7:22",
+		"station": "侨中隧道口"
+	},{
+		"number": 1,
+		"timeLabel": "7:25",
+		"station": "金牛岭公园"
+	},{
+		"number": 1,
+		"timeLabel": "7:28",
+		"station": "凤凰新村"
+	},{
+		"number": 1,
+		"timeLabel": "7:30",
+		"station": "滨濂村"
+	},{
+		"number": 1,
+		"timeLabel": "7:35",
+		"station": "西站"
+	},{
+		"number": 1,
+		"timeLabel": "7:40",
+		"station": "秀英分局站"
+	},{
+		"number": 1,
+		"timeLabel": "7:55",
+		"station": "时代城公交站"
+	},{
+		"number": 1,
+		"timeLabel": "7:57",
+		"station": "永和花园（北门）公交站"
+	},{
+		"number": 1,
+		"timeLabel": "8:15",
+		"station": "软件园"
+	}],
+	"ok": true
+}

@@ -1,0 +1,50 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 26,
+		"timeLabel": "17:15",
+		"station": "软件园"
+	},{
+		"number": 26,
+		"timeLabel": "17:15",
+		"station": "永秀花园公交站"
+	},{
+		"number": 26,
+		"timeLabel": "17:15",
+		"station": "时代城公交站"
+	},{
+		"number": 26,
+		"timeLabel": "17:15",
+		"station": "爱华汽车广场"
+	},{
+		"number": 26,
+		"timeLabel": "17:15",
+		"station": "文华酒店"
+	},{
+		"number": 26,
+		"timeLabel": "17:15",
+		"station": "万绿园"
+	},{
+		"number": 26,
+		"timeLabel": "17:15",
+		"station": "海大北门"
+	},{
+		"number": 26,
+		"timeLabel": "17:15",
+		"station": "港湾花园"
+	},{
+		"number": 26,
+		"timeLabel": "17:15",
+		"station": "京海花园"
+	},{
+		"number": 26,
+		"timeLabel": "17:15",
+		"station": "中北大厦"
+	},{
+		"number": 26,
+		"timeLabel": "17:15",
+		"station": "银谷苑"
+	}],
+	"ok": true
+}

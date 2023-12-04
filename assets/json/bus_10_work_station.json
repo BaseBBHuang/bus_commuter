@@ -1,0 +1,30 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 10,
+		"timeLabel": "7:40",
+		"station": "警备区"
+	},{
+		"number": 10,
+		"timeLabel": "7:43",
+		"station": "金牛岭公园"
+	},{
+		"number": 10,
+		"timeLabel": "7:45",
+		"station": "凤凰新村"
+	},{
+		"number": 10,
+		"timeLabel": "7:55",
+		"station": "西站"
+	},{
+		"number": 10,
+		"timeLabel": "8:02",
+		"station": "秀英分局"
+	},{
+		"number": 10,
+		"timeLabel": "8:40",
+		"station": "软件园"
+	}],
+	"ok": true
+}

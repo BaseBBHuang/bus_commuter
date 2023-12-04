@@ -1,0 +1,34 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 17,
+		"timeLabel": "7:40",
+		"station": "高铁城西3号站(南站)"
+	},{
+		"number": 17,
+		"timeLabel": "7:50",
+		"station": "丘海路口公交站"
+	},{
+		"number": 17,
+		"timeLabel": "7:55",
+		"station": "泓环站（海波市场对面）"
+	},{
+		"number": 17,
+		"timeLabel": "8:05",
+		"station": "秀英分局"
+	},{
+		"number": 17,
+		"timeLabel": "8:15",
+		"station": "时代城公交站"
+	},{
+		"number": 17,
+		"timeLabel": "8:35",
+		"station": "软件园一期(8:40发车至生态村)"
+	},{
+		"number": 17,
+		"timeLabel": "8:50",
+		"station": "腾讯生态村"
+	}],
+	"ok": true
+}

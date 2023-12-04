@@ -1,0 +1,46 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 44,
+		"timeLabel": "19:15",
+		"station": "软件园"
+	},{
+		"number": 44,
+		"timeLabel": "",
+		"station": "永秀花园公交站"
+	},{
+		"number": 44,
+		"timeLabel": "",
+		"station": "时代城公交站"
+	},{
+		"number": 44,
+		"timeLabel": "",
+		"station": "西站"
+	},{
+		"number": 44,
+		"timeLabel": "",
+		"station": "金牛岭公园"
+	},{
+		"number": 44,
+		"timeLabel": "",
+		"station": "警备区"
+	},{
+		"number": 44,
+		"timeLabel": "",
+		"station": "东湖"
+	},{
+		"number": 44,
+		"timeLabel": "",
+		"station": "省琼剧院"
+	},{
+		"number": 44,
+		"timeLabel": "",
+		"station": "五公祠"
+	},{
+		"number": 44,
+		"timeLabel": "",
+		"station": "琼山邮政局"
+	}],
+	"ok": true
+}

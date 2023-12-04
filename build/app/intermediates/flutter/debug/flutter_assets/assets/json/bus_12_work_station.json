@@ -1,0 +1,22 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 12,
+		"timeLabel": "7:30",
+		"station": "银谷苑"
+	},{
+		"number": 12,
+		"timeLabel": "7:35",
+		"station": "港湾花园"
+	},{
+		"number": 12,
+		"timeLabel": "7:40",
+		"station": "万福新村"
+	},{
+		"number": 12,
+		"timeLabel": "8:20",
+		"station": "软件园"
+	}],
+	"ok": true
+}

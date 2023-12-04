@@ -1,0 +1,18 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 18,
+		"timeLabel": "8:40",
+		"station": "软件园"
+	},{
+		"number": 18,
+		"timeLabel": "8:50",
+		"station": "腾讯生态村"
+	},{
+		"number": 18,
+		"timeLabel": "9:00",
+		"station": "云海吾乡（新城）"
+	}],
+	"ok": true
+}

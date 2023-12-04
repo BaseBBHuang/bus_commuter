@@ -1,0 +1,46 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 25,
+		"timeLabel": "17:15",
+		"station": "软件园"
+	},{
+		"number": 25,
+		"timeLabel": "17:15",
+		"station": "秀英分局"
+	},{
+		"number": 25,
+		"timeLabel": "17:15",
+		"station": "滨贸路口"
+	},{
+		"number": 25,
+		"timeLabel": "17:15",
+		"station": "凤凰新村"
+	},{
+		"number": 25,
+		"timeLabel": "17:15",
+		"station": "金牛岭公园"
+	},{
+		"number": 25,
+		"timeLabel": "17:15",
+		"station": "警备区"
+	},{
+		"number": 25,
+		"timeLabel": "17:15",
+		"station": "国宾酒店"
+	},{
+		"number": 25,
+		"timeLabel": "17:15",
+		"station": "鑫源酒店"
+	},{
+		"number": 25,
+		"timeLabel": "17:15",
+		"station": "东湖"
+	},{
+		"number": 25,
+		"timeLabel": "17:15",
+		"station": "省琼剧院"
+	}],
+	"ok": true
+}

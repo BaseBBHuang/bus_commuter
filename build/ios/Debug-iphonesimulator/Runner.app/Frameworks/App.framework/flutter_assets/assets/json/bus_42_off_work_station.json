@@ -1,0 +1,30 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 42,
+		"timeLabel": "18:40",
+		"station": "软件园"
+	},{
+		"number": 42,
+		"timeLabel": "",
+		"station": "昌茂花园"
+	},{
+		"number": 42,
+		"timeLabel": "",
+		"station": "金霖花园"
+	},{
+		"number": 42,
+		"timeLabel": "",
+		"station": "省烟草公司"
+	},{
+		"number": 42,
+		"timeLabel": "",
+		"station": "自来水厂"
+	},{
+		"number": 42,
+		"timeLabel": "",
+		"station": "琼山邮局"
+	}],
+	"ok": true
+}

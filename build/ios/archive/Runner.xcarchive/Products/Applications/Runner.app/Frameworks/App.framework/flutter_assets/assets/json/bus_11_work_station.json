@@ -1,0 +1,34 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 11,
+		"timeLabel": "7:30",
+		"station": "宝发幸福酒店"
+	},{
+		"number": 11,
+		"timeLabel": "7:35",
+		"station": "万绿园"
+	},{
+		"number": 11,
+		"timeLabel": "7:40",
+		"station": "文华酒店"
+	},{
+		"number": 11,
+		"timeLabel": "7:45",
+		"station": "爱华汽车广场(丽晶路口站)"
+	},{
+		"number": 11,
+		"timeLabel": "8:05",
+		"station": "夏威夷海岸"
+	},{
+		"number": 11,
+		"timeLabel": "8:10",
+		"station": "金沙湾一路公交站"
+	},{
+		"number": 11,
+		"timeLabel": "8:35",
+		"station": "软件园"
+	}],
+	"ok": true
+}

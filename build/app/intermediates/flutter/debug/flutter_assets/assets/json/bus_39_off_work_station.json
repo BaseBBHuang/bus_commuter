@@ -1,0 +1,22 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 39,
+		"timeLabel": "18:10",
+		"station": "云海吾乡（新城）"
+	},{
+		"number": 39,
+		"timeLabel": "18:15",
+		"station": "腾讯生态村"
+	},{
+		"number": 39,
+		"timeLabel": "18:20",
+		"station": "未来学校（剧场路口）"
+	},{
+		"number": 39,
+		"timeLabel": "18:30",
+		"station": "软件园"
+	}],
+	"ok": true
+}

@@ -1,0 +1,38 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 1,
+		"timeLabel": "7:40",
+		"station": "海大北门"
+	},{
+		"number": 1,
+		"timeLabel": "7:42",
+		"station": "京海花园"
+	},{
+		"number": 1,
+		"timeLabel": "7:45",
+		"station": "钟楼"
+	},{
+		"number": 1,
+		"timeLabel": "7:50",
+		"station": "侨中隧道"
+	},{
+		"number": 1,
+		"timeLabel": "7:53",
+		"station": "金牛岭公园"
+	},{
+		"number": 1,
+		"timeLabel": "7:55",
+		"station": "凤凰新村"
+	},{
+		"number": 1,
+		"timeLabel": "8:00",
+		"station": "西站"
+	},{
+		"number": 1,
+		"timeLabel": "8:45",
+		"station": "软件园"
+	}],
+	"ok": true
+}

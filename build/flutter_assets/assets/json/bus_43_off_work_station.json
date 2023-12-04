@@ -1,0 +1,30 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 43,
+		"timeLabel": "18:40",
+		"station": "软件园"
+	},{
+		"number": 43,
+		"timeLabel": "",
+		"station": "国宾酒店"
+	},{
+		"number": 43,
+		"timeLabel": "",
+		"station": "东湖"
+	},{
+		"number": 43,
+		"timeLabel": "",
+		"station": "省琼剧院"
+	},{
+		"number": 43,
+		"timeLabel": "",
+		"station": "彩票中心"
+	},{
+		"number": 43,
+		"timeLabel": "",
+		"station": "五公祠"
+	}],
+	"ok": true
+}

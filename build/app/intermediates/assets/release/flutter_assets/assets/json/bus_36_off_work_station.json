@@ -1,0 +1,30 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 36,
+		"timeLabel": "18:15",
+		"station": "软件园"
+	},{
+		"number": 36,
+		"timeLabel": "18:15",
+		"station": "高铁东"
+	},{
+		"number": 36,
+		"timeLabel": "18:15",
+		"station": "丁村路口"
+	},{
+		"number": 36,
+		"timeLabel": "18:15",
+		"station": "凤翔山庄"
+	},{
+		"number": 36,
+		"timeLabel": "18:15",
+		"station": "丽华酒店"
+	},{
+		"number": 36,
+		"timeLabel": "18:15",
+		"station": "琼山侨中"
+	}],
+	"ok": true
+}

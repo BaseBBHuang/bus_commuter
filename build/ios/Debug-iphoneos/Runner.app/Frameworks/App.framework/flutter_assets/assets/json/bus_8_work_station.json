@@ -1,0 +1,30 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 8,
+		"timeLabel": "7:40",
+		"station": "万达广场"
+	},{
+		"number": 8,
+		"timeLabel": "7:45",
+		"station": "海波市场"
+	},{
+		"number": 8,
+		"timeLabel": "7:48",
+		"station": "秀英分局"
+	},{
+		"number": 8,
+		"timeLabel": "8:00",
+		"station": "会展中心"
+	},{
+		"number": 8,
+		"timeLabel": "8:03",
+		"station": "夏威夷站"
+	},{
+		"number": 8,
+		"timeLabel": "8:35",
+		"station": "软件园"
+	}],
+	"ok": true
+}

@@ -1,0 +1,42 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 27,
+		"timeLabel": "17:15",
+		"station": "软件园"
+	},{
+		"number": 27,
+		"timeLabel": "17:15",
+		"station": "琼山邮政"
+	},{
+		"number": 27,
+		"timeLabel": "17:15",
+		"station": "自来水厂"
+	},{
+		"number": 27,
+		"timeLabel": "17:15",
+		"station": "红城湖公交站"
+	},{
+		"number": 27,
+		"timeLabel": "17:15",
+		"station": "省烟草公司"
+	},{
+		"number": 27,
+		"timeLabel": "17:15",
+		"station": "金霖花园"
+	},{
+		"number": 27,
+		"timeLabel": "17:15",
+		"station": "昌茂花园"
+	},{
+		"number": 27,
+		"timeLabel": "17:15",
+		"station": "龙昆白坡里"
+	},{
+		"number": 27,
+		"timeLabel": "17:15",
+		"station": "省图书馆"
+	}],
+	"ok": true
+}

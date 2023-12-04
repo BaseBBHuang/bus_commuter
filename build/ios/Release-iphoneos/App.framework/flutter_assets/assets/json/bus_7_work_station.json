@@ -1,0 +1,50 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 7,
+		"timeLabel": "7:40",
+		"station": "省琼剧院"
+	},{
+		"number": 7,
+		"timeLabel": "7:45",
+		"station": "东湖"
+	},{
+		"number": 7,
+		"timeLabel": "7:47",
+		"station": "龙泉花园酒店"
+	},{
+		"number": 7,
+		"timeLabel": "7:50",
+		"station": "鸿运酒店"
+	},{
+		"number": 7,
+		"timeLabel": "7:25",
+		"station": "鸿运酒店"
+	},{
+		"number": 7,
+		"timeLabel": "7:53",
+		"station": "旧海航大厦"
+	},{
+		"number": 7,
+		"timeLabel": "8:10",
+		"station": "西站"
+	},{
+		"number": 7,
+		"timeLabel": "8:15",
+		"station": "秀英分局站"
+	},{
+		"number": 7,
+		"timeLabel": "8:20",
+		"station": "时代城公交站"
+	},{
+		"number": 7,
+		"timeLabel": "8:23",
+		"station": "永和花园（北门）公交站"
+	},{
+		"number": 7,
+		"timeLabel": "8:45",
+		"station": "软件园"
+	}],
+	"ok": true
+}

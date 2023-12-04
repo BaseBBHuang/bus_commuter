@@ -1,0 +1,34 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 9,
+		"timeLabel": "7:40",
+		"station": "东湖"
+	},{
+		"number": 9,
+		"timeLabel": "7:45",
+		"station": "龙泉花园酒店"
+	},{
+		"number": 9,
+		"timeLabel": "7:50",
+		"station": "鸿运酒店"
+	},{
+		"number": 9,
+		"timeLabel": "7:55",
+		"station": "旧海航大厦"
+	},{
+		"number": 9,
+		"timeLabel": "8:10",
+		"station": "时代城公交站"
+	},{
+		"number": 9,
+		"timeLabel": "8:13",
+		"station": "永和花园（北门）公交站"
+	},{
+		"number": 9,
+		"timeLabel": "8:40",
+		"station": "软件园"
+	}],
+	"ok": true
+}

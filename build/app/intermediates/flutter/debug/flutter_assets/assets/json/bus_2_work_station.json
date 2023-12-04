@@ -1,0 +1,54 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 2,
+		"timeLabel": "7:20",
+		"station": "五公祠"
+	},{
+		"number": 2,
+		"timeLabel": "7:25",
+		"station": "彩票中心"
+	},{
+		"number": 2,
+		"timeLabel": "7:17",
+		"station": "省琼剧院"
+	},{
+		"number": 2,
+		"timeLabel": "7:20",
+		"station": "东湖"
+	},{
+		"number": 2,
+		"timeLabel": "7:25",
+		"station": "鸿运酒店"
+	},{
+		"number": 2,
+		"timeLabel": "7:35",
+		"station": "昌茂花园"
+	},{
+		"number": 2,
+		"timeLabel": "7:45",
+		"station": "金霖花园"
+	},{
+		"number": 2,
+		"timeLabel": "7:55",
+		"station": "高铁城西3号站（南站）"
+	},{
+		"number": 2,
+		"timeLabel": "8:00",
+		"station": "海南第二附属医院南门"
+	},{
+		"number": 2,
+		"timeLabel": "8:20",
+		"station": "软件园一期"
+	},{
+		"number": 2,
+		"timeLabel": "8:30",
+		"station": "未来学校（剧场路口）"
+	},{
+		"number": 2,
+		"timeLabel": "8:35",
+		"station": "腾讯生态村"
+	}],
+	"ok": true
+}

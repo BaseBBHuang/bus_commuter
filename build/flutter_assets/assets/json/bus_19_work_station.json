@@ -1,0 +1,26 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 19,
+		"timeLabel": "7:35",
+		"station": "五公祠"
+	},{
+		"number": 19,
+		"timeLabel": "7:38",
+		"station": "海瑞故居公交站"
+	},{
+		"number": 19,
+		"timeLabel": "7:41",
+		"station": "省烟草公司"
+	},{
+		"number": 19,
+		"timeLabel": "7:45",
+		"station": "928 医院（原187 ）"
+	},{
+		"number": 19,
+		"timeLabel": "8:30",
+		"station": "软件园"
+	}],
+	"ok": true
+}

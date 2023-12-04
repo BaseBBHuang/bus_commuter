@@ -1,0 +1,34 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 35,
+		"timeLabel": "18:15",
+		"station": "软件园"
+	},{
+		"number": 35,
+		"timeLabel": "18:15",
+		"station": "省高院"
+	},{
+		"number": 35,
+		"timeLabel": "18:15",
+		"station": "中国城"
+	},{
+		"number": 35,
+		"timeLabel": "18:15",
+		"station": "省烟草公司"
+	},{
+		"number": 35,
+		"timeLabel": "18:15",
+		"station": "海南党校"
+	},{
+		"number": 35,
+		"timeLabel": "18:15",
+		"station": "自来水厂"
+	},{
+		"number": 35,
+		"timeLabel": "18:15",
+		"station": "琼山邮政"
+	}],
+	"ok": true
+}

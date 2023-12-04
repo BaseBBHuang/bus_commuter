@@ -1,0 +1,4 @@
+#Mon Dec 04 10:20:00 CST 2023
+base.0=/Users/tianbao/Desktop/NewProject/flutter_rsc/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

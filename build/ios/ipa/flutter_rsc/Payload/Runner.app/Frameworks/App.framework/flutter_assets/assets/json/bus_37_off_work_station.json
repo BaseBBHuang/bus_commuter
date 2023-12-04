@@ -1,0 +1,38 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 37,
+		"timeLabel": "18:15",
+		"station": "软件园"
+	},{
+		"number": 37,
+		"timeLabel": "18:15",
+		"station": "永秀花园公交站"
+	},{
+		"number": 37,
+		"timeLabel": "18:15",
+		"station": "时代城公交站"
+	},{
+		"number": 37,
+		"timeLabel": "18:15",
+		"station": "秀英公安分局"
+	},{
+		"number": 37,
+		"timeLabel": "18:15",
+		"station": "西站"
+	},{
+		"number": 37,
+		"timeLabel": "18:15",
+		"station": "海大北门"
+	},{
+		"number": 37,
+		"timeLabel": "18:15",
+		"station": "中北大厦"
+	},{
+		"number": 37,
+		"timeLabel": "18:15",
+		"station": "银谷苑"
+	}],
+	"ok": true
+}

@@ -1,0 +1,121 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 1,
+		"timeLabel": "7:00",
+		"startStation": "海大北门",
+		"endStation": "软件园"
+	},{
+		"number": 2,
+		"timeLabel": "7:10",
+		"startStation": "五公祠",
+		"endStation": "腾讯生态村"
+	},{
+		"number": 3,
+		"timeLabel": "7:15",
+		"startStation": "琼苑宾馆",
+		"endStation": "软件园"
+	},{
+		"number": 4,
+		"timeLabel": "7:15",
+		"startStation": "警备区",
+		"endStation": "腾讯生态村"
+	},{
+		"number": 5,
+		"timeLabel": "7:30",
+		"startStation": "琼苑宾馆",
+		"endStation": "软件园"
+	},{
+		"number": 6,
+		"timeLabel": "7:45",
+		"startStation": "琼苑宾馆",
+		"endStation": "软件园"
+	},{
+		"number": 7,
+		"timeLabel": "7:40",
+		"startStation": "省琼剧院",
+		"endStation": "软件园"
+	},{
+		"number": 8,
+		"timeLabel": "7:40",
+		"startStation": "万达广场",
+		"endStation": "软件园"
+	},{
+		"number": 9,
+		"timeLabel": "7:40",
+		"startStation": "东湖",
+		"endStation": "软件园"
+	},{
+		"number": 10,
+		"timeLabel": "7:40",
+		"startStation": "警备区",
+		"endStation": "软件园"
+	},{
+		"number": 11,
+		"timeLabel": "7:30",
+		"startStation": "宝发幸福酒店",
+		"endStation": "软件园"
+	},{
+		"number": 12,
+		"timeLabel": "7:30",
+		"startStation": "银谷苑",
+		"endStation": "软件园"
+	},{
+		"number": 13,
+		"timeLabel": "7:30",
+		"startStation": "京海花园",
+		"endStation": "软件园"
+	},{
+		"number": 14,
+		"timeLabel": "7:50",
+		"startStation": "琼山自来水厂（香江国际门口）",
+		"endStation": "软件园"
+	},{
+		"number": 15,
+		"timeLabel": "7:55",
+		"startStation": "山高村",
+		"endStation": "软件园"
+	},{
+		"number": 16,
+		"timeLabel": "7:50",
+		"startStation": "龙昆白坡里",
+		"endStation": "软件园"
+	},{
+		"number": 17,
+		"timeLabel": "7:40",
+		"startStation": "高铁城西3号站",
+		"endStation": "腾讯生态村"
+	},{
+		"number": 18,
+		"timeLabel": "8:40",
+		"startStation": "软件园",
+		"endStation": "云海吾乡（新城）"
+	},{
+		"number": 19,
+		"timeLabel": "7:35",
+		"startStation": "五公祠",
+		"endStation": "软件园"
+	},{
+		"number": 20,
+		"timeLabel": "11:30",
+		"startStation": "鸿运酒店",
+		"endStation": "软件园"
+	},{
+		"number": 21,
+		"timeLabel": "16:00",
+		"startStation": "鸿运酒店",
+		"endStation": "软件园"
+	},{
+		"number": 22,
+		"timeLabel": "9:00",
+		"startStation": "软件园",
+		"endStation": "鑫源酒店"
+	},{
+		"number": 23,
+		"timeLabel": "14:00",
+		"startStation": "软件园",
+		"endStation": "明珠广场"
+	}],
+	"ok": true
+}

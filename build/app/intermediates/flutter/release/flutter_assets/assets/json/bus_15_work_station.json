@@ -1,0 +1,26 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 15,
+		"timeLabel": "7:55",
+		"station": "山高村"
+	},{
+		"number": 15,
+		"timeLabel": "8:00",
+		"station": "凤翔山庄"
+	},{
+		"number": 15,
+		"timeLabel": "8:03",
+		"station": "琼山供电局"
+	},{
+		"number": 15,
+		"timeLabel": "8:05",
+		"station": "琼山侨中"
+	},{
+		"number": 15,
+		"timeLabel": "8:40",
+		"station": "软件园"
+	}],
+	"ok": true
+}

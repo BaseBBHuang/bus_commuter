@@ -1,0 +1,46 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 4,
+		"timeLabel": "7:30",
+		"station": "警备区"
+	},{
+		"number": 4,
+		"timeLabel": "7:33",
+		"station": "金牛岭公园"
+	},{
+		"number": 4,
+		"timeLabel": "7:35",
+		"station": "凤凰新村"
+	},{
+		"number": 4,
+		"timeLabel": "7:40",
+		"station": "西站"
+	},{
+		"number": 4,
+		"timeLabel": "7:42",
+		"station": "秀英分局"
+	},{
+		"number": 4,
+		"timeLabel": "7:50",
+		"station": "时代城公交站"
+	},{
+		"number": 4,
+		"timeLabel": "7:53",
+		"station": "永和花园（北门）公交站"
+	},{
+		"number": 4,
+		"timeLabel": "8:03",
+		"station": "南海幸福汇"
+	},{
+		"number": 4,
+		"timeLabel": "8:25",
+		"station": "软件园一期(8:30发车至生态村)"
+	},{
+		"number": 4,
+		"timeLabel": "8:55",
+		"station": "腾讯生态村"
+	}],
+	"ok": true
+}

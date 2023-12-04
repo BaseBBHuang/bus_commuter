@@ -1,0 +1,121 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 24,
+		"timeLabel": "17:15",
+		"startStation": "软件园",
+		"endStation": "西站"
+	},{
+		"number": 25,
+		"timeLabel": "17:15",
+		"startStation": "软件园",
+		"endStation": "省琼剧院"
+	},{
+		"number": 26,
+		"timeLabel": "17:15",
+		"startStation": "软件园",
+		"endStation": "银谷苑"
+	},{
+		"number": 27,
+		"timeLabel": "17:15",
+		"startStation": "软件园",
+		"endStation": "省图书馆"
+	},{
+		"number": 28,
+		"timeLabel": "17:45",
+		"startStation": "软件园",
+		"endStation": "琼苑宾馆"
+	},{
+		"number": 29,
+		"timeLabel": "17:45",
+		"startStation": "软件园",
+		"endStation": "警备区"
+	},{
+		"number": 30,
+		"timeLabel": "17:45",
+		"startStation": "软件园",
+		"endStation": "五公祠"
+	},{
+		"number": 31,
+		"timeLabel": "17:45",
+		"startStation": "软件园",
+		"endStation": "宝发幸福酒店"
+	},{
+		"number": 32,
+		"timeLabel": "17:45",
+		"startStation": "软件园",
+		"endStation": "银谷苑"
+	},{
+		"number": 33,
+		"timeLabel": "17:45",
+		"startStation": "软件园",
+		"endStation": "龙昆白坡里"
+	},{
+		"number": 34,
+		"timeLabel": "17:50",
+		"startStation": "云海吾乡（新城）",
+		"endStation": "软件园"
+	},{
+		"number": 35,
+		"timeLabel": "18:15",
+		"startStation": "软件园",
+		"endStation": "琼山邮政"
+	},{
+		"number": 36,
+		"timeLabel": "18:15",
+		"startStation": "软件园",
+		"endStation": "琼山侨中"
+	},{
+		"number": 37,
+		"timeLabel": "18:15",
+		"startStation": "软件园",
+		"endStation": "银谷苑"
+	},{
+		"number": 38,
+		"timeLabel": "18:15",
+		"startStation": "软件园",
+		"endStation": "琼苑宾馆"
+	},{
+		"number": 39,
+		"timeLabel": "18:10",
+		"startStation": "云海吾乡（新城）",
+		"endStation": "软件园"
+	},{
+		"number": 40,
+		"timeLabel": "18:40",
+		"startStation": "软件园",
+		"endStation": "西站"
+	},{
+		"number": 41,
+		"timeLabel": "18:40",
+		"startStation": "软件园",
+		"endStation": "警备区"
+	},{
+		"number": 42,
+		"timeLabel": "18:40",
+		"startStation": "软件园",
+		"endStation": "琼山邮局"
+	},{
+		"number": 43,
+		"timeLabel": "18:40",
+		"startStation": "软件园",
+		"endStation": "五公祠"
+	},{
+		"number": 44,
+		"timeLabel": "19:15",
+		"startStation": "软件园",
+		"endStation": "琼山邮政局"
+	},{
+		"number": 45,
+		"timeLabel": "20:00",
+		"startStation": "云海吾乡（新城）",
+		"endStation": "软件园"
+	},{
+		"number": 46,
+		"timeLabel": "20:20",
+		"startStation": "软件园",
+		"endStation": "五公祠"
+	}],
+	"ok": true
+}
