@@ -1,0 +1,21 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 1,
+		"timeLabel": "7:00",
+		"startStation": "海大北门",
+		"endStation": "软件园"
+	},{
+		"number": 2,
+		"timeLabel": "7:10",
+		"startStation": "五公祠",
+		"endStation": "未来学校（剧场路口）"
+	},{
+		"number": 6,
+		"timeLabel": "16:00",
+		"startStation": "南亚广场",
+		"endStation": "软件园"
+	}],
+	"ok": true
+}

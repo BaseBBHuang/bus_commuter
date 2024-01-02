@@ -1,0 +1,26 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 16,
+		"timeLabel": "7:50",
+		"station": "龙昆白坡里"
+	},{
+		"number": 16,
+		"timeLabel": "7:55",
+		"station": "昌茂花园"
+	},{
+		"number": 16,
+		"timeLabel": "8:00",
+		"station": "金霖花园"
+	},{
+		"number": 16,
+		"timeLabel": "8:05",
+		"station": "928 医院（原187 ）"
+	},{
+		"number": 16,
+		"timeLabel": "8:40",
+		"station": "软件园"
+	}],
+	"ok": true
+}
