@@ -1,0 +1,46 @@
+{
+	"code": 200,
+	"message": "成功",
+	"data": [{
+		"number": 5,
+		"timeLabel": "9:00",
+		"station": "软件园"
+	},{
+		"number": 5,
+		"timeLabel": "9:00",
+		"station": "青年公寓"
+	},{
+		"number": 5,
+		"timeLabel": "9:00",
+		"station": "学校教师公寓"
+	},{
+		"number": 5,
+		"timeLabel": "9:00",
+		"station": "西站"
+	},{
+		"number": 5,
+		"timeLabel": "9:00",
+		"station": "文华菜市场"
+	},{
+		"number": 5,
+		"timeLabel": "9:00",
+		"station": "宜欣广场站"
+	},{
+		"number": 5,
+		"timeLabel": "9:00",
+		"station": "嘉华名都车站(国贸大润发)"
+	},{
+		"number": 5,
+		"timeLabel": "9:00",
+		"station": "警备区(家乐福站)"
+	},{
+		"number": 5,
+		"timeLabel": "9:00",
+		"station": "明珠广场"
+	},{
+		"number": 5,
+		"timeLabel": "9:00",
+		"station": "南亚广场"
+	}],
+	"ok": true
+}

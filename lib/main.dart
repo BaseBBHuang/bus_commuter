@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'pageRouter/ssc_router.dart';
 
 void main() {
+  SSCRouter();
   runApp(const MyApp());
 }
 

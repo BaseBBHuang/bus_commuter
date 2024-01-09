@@ -10,9 +10,12 @@ class SSCRouter {
 
   SSCRouter._internal() {
     goRouter = GoRouter(
+      initialLocation: '/index',
+      debugLogDiagnostics: true,
       routes: <RouteBase>[
         GoRoute(
-          path: '/',
+          name: 'index',
+          path: '/index',
           builder: (BuildContext context, GoRouterState state) {
             return const SSCTabbarController();
           },
